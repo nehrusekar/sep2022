@@ -1,0 +1,38 @@
+.login{
+  width: 100%;
+  background-image: url("https://images.pexels.com/photos/8951605/pexels-photo-8951605.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-image: fixed;
+}
+h1{
+    color: rgb(101, 12, 128);
+    text-align: center;
+    font-size: 50px;
+}
+#container{
+    text-align: center;
+    padding-top: 15%;
+    padding-left: 40%;
+    padding-bottom: 25%;
+    width: 50%;
+
+  
+}
+#btn{
+    border: 10px; 
+    padding: 10px 20px;
+    background: rgb(45, 79, 230);
+    color: white;
+    margin-top: 30px;
+    cursor: pointer;
+    width: 200px;
+}
+ input{
+    padding: 6px 6px;
+    border: none;
+    background: rgba(245, 245, 245, 0.692);
+    border-radius: 2px;
+     
+}
+p{
+    color:rgb(247, 9, 9);
+}

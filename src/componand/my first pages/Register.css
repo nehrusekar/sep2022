@@ -1,0 +1,30 @@
+.header{
+    background-image: url("https://images.pexels.com/photos/6465185/pexels-photo-6465185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+#forms{
+    text-align: center;
+}
+#forms input{
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid rgb(96, 96, 243);
+    padding: 10px;
+    text-decoration: none;
+
+}
+#submit{
+    border: 20px;
+    padding: 10px 20px;
+    background: dodgerblue;
+    color: white; 
+    margin-top: 10px;
+    width: 100px;
+    cursor: pointer;
+}
+
