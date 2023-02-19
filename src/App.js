@@ -7,6 +7,9 @@ import { BrowserRouter,Switch,Route,Link } from 'react-router-dom';
 // import Register from './componand/my first pages/Register';
 
 function App() {
+   useEffect(()=>
+   console.log(checking)
+   )
   return (
 
     <div>
